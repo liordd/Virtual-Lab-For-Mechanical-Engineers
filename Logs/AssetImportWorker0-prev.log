@@ -1,0 +1,209 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.4f1 (4cd64a618c1b) revision 5035594'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.2251; Version 2009; 64bit' Language: 'ru' Physical Memory: 8129 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Gamedev\2021.1.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Gamedev/Colledge
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55798
+Successfully changed project path to: E:/Gamedev/Colledge
+E:/Gamedev/Colledge
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 94.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.4f1 (4cd64a618c1b)
+[Subsystems] Discovering subsystems at path E:/Gamedev/2021.1.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Gamedev/Colledge/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 950 (ID=0x1402)
+    Vendor:   NVIDIA
+    VRAM:     2002 MB
+    Driver:   31.0.15.2698
+Initialize mono
+Mono path[0] = 'E:/Gamedev/2021.1.4f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Gamedev/2021.1.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Gamedev/2021.1.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56760
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Gamedev/2021.1.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008699 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 116.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.091 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013106 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.1 MB.
+System memory in use after: 100.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3127.
+Total: 2.230700 ms (FindLiveObjects: 0.244100 ms CreateObjectMapping: 0.211200 ms MarkObjects: 1.677800 ms  DeleteObjects: 0.096600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Rims/4.models/rims.fbx
+  artifactKey: Guid(41c0d40d335b54edd96cd39b061bb16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/4.models/rims.fbx using Guid(41c0d40d335b54edd96cd39b061bb16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7eb5a8a2e8eae7ffbcaa217ae5241a') in 0.312822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Rims/2.prefabs
+  artifactKey: Guid(d84fd6d20c7234881b1c94c193105295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs using Guid(d84fd6d20c7234881b1c94c193105295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b774728fadf29e945681b2b212242c39') in 0.005289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Rims/4.models
+  artifactKey: Guid(f20dfe0caf9394585b3e62f737a986dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/4.models using Guid(f20dfe0caf9394585b3e62f737a986dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d6c853be907395fe3ecbdb86ce0b1d7') in 0.006615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Rims/2.prefabs/FL_rim_5.prefab
+  artifactKey: Guid(82c2858854edf48bb9673cdc13c57e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FL_rim_5.prefab using Guid(82c2858854edf48bb9673cdc13c57e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd316c944d405fb6c3ebfbe17c0f3ea4') in 0.155749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Rims/2.prefabs/FL_rim_1.prefab
+  artifactKey: Guid(8a7d93f40779f4356abfbbef3a2ae57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FL_rim_1.prefab using Guid(8a7d93f40779f4356abfbbef3a2ae57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c883cb1c783f6017c0b4fe5c3f0aa5') in 0.017131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Rims/2.prefabs/FR_rim_1.prefab
+  artifactKey: Guid(ebaeb81412b0d461581fe4bd2903c67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FR_rim_1.prefab using Guid(ebaeb81412b0d461581fe4bd2903c67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ab08c81d089cf9d80bec76ef56515b') in 0.015980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Rims/2.prefabs/FR_rim_3.prefab
+  artifactKey: Guid(a8d82883c5c754d61a4a446db38ee4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FR_rim_3.prefab using Guid(a8d82883c5c754d61a4a446db38ee4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '013f397e55b825252b1735fdbf4cb984') in 0.015330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Rims/2.prefabs/FL_rim_2.prefab
+  artifactKey: Guid(e99d53b7eecf44585acde4ac87636b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FL_rim_2.prefab using Guid(e99d53b7eecf44585acde4ac87636b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b8935aa314303c248d5a0d12e2bd008') in 0.015919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Rims/2.prefabs/FR_rim_4.prefab
+  artifactKey: Guid(a955ba4cb247647d0a88a2f0eccf0254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FR_rim_4.prefab using Guid(a955ba4cb247647d0a88a2f0eccf0254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148bd9743c1c9b1e491eb4555893a2fd') in 0.015698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Rims/2.prefabs/FR_rim_5.prefab
+  artifactKey: Guid(873501c1af48f4c3a95fe27e14b2584b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FR_rim_5.prefab using Guid(873501c1af48f4c3a95fe27e14b2584b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bfc6d3fed265bd3e321ba5e43e9098b') in 0.015514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Rims/2.prefabs/FL_rim_4.prefab
+  artifactKey: Guid(d40b5d3e2505f459391fb3cfbbc048f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FL_rim_4.prefab using Guid(d40b5d3e2505f459391fb3cfbbc048f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e16879206a8b697b0e7cb7d0ecf143') in 0.014253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Rims/2.prefabs/FR_rim_2.prefab
+  artifactKey: Guid(8e941d58ff5064cc8a872665073fb51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FR_rim_2.prefab using Guid(8e941d58ff5064cc8a872665073fb51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb85573004c45ae206146a96211244c2') in 0.014238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Rims/2.prefabs/FL_rim_3.prefab
+  artifactKey: Guid(d51f09a1d36c14f75960bf92c6972040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/2.prefabs/FL_rim_3.prefab using Guid(d51f09a1d36c14f75960bf92c6972040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a58b1af7174ea9e5dc5ce020692459') in 0.015891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 282.590276 seconds.
+  path: Assets/Rims/3.materials/rims.mat
+  artifactKey: Guid(93f9492d66b5e4587957f2529eeebdc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/3.materials/rims.mat using Guid(93f9492d66b5e4587957f2529eeebdc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de46e8a703025ef8ebcc557b3b1dd92') in 0.095544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Rims/3.materials/rims_tex.tga
+  artifactKey: Guid(254f268e42d72456eba1d7bea0d84f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/3.materials/rims_tex.tga using Guid(254f268e42d72456eba1d7bea0d84f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45af156f46d711987a795e28b875bd7') in 0.028745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.539367 seconds.
+  path: Assets/Rims/1.demo/ReflectionProbe-0.exr
+  artifactKey: Guid(67e04285d183444d798a27fda59d8e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/1.demo/ReflectionProbe-0.exr using Guid(67e04285d183444d798a27fda59d8e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a38329fe3c7cf8d9f34d3b507551490') in 0.030558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.706294 seconds.
+  path: Assets/Rims/3.materials
+  artifactKey: Guid(1352a52d650ab47c8b3299974d5693a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/3.materials using Guid(1352a52d650ab47c8b3299974d5693a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6c0b95fc4a10b4cc432318dc2a02539') in 0.009090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 255.470079 seconds.
+  path: Assets/Rims/3.materials/Materials
+  artifactKey: Guid(c911751be6e7e454abc80384ae996385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/3.materials/Materials using Guid(c911751be6e7e454abc80384ae996385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e04f73b7746c5ff4ca1aecd6f6d44d') in 0.008808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.071670 seconds.
+  path: Assets/Rims/3.materials/Materials/rims_tex.mat
+  artifactKey: Guid(0c5d8fd85633d6b4fba4dcf20eb24701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/3.materials/Materials/rims_tex.mat using Guid(0c5d8fd85633d6b4fba4dcf20eb24701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce81276a3fd5458824094438f5a06bd2') in 0.012479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.501907 seconds.
+  path: Assets/Rims/1.demo
+  artifactKey: Guid(4f704ae4b4f98ae41a0bce26658850c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rims/1.demo using Guid(4f704ae4b4f98ae41a0bce26658850c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e920b3a75ea23e9ad0341d6a601a861') in 0.008453 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015199 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.402 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2667 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.9 MB.
+System memory in use after: 106.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3208.
+Total: 2.660200 ms (FindLiveObjects: 0.243800 ms CreateObjectMapping: 0.201700 ms MarkObjects: 2.076000 ms  DeleteObjects: 0.137400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
